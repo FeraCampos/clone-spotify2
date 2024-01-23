@@ -132,5 +132,6 @@ table {
 }
 
 button, a, textarea {
+  text-decoration: none;
   color: inherit;
 }

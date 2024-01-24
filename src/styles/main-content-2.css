@@ -104,6 +104,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   font-weight: 700;
   background-color: transparent;
   margin-right: 32px;
+  cursor: pointer;
 }
 
 .header__login .login {
@@ -113,6 +114,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   font-size: 16px;
   font-weight: 700;
   border-radius: 40px;
+  cursor: pointer;
 }
 
 /* HOVER */
